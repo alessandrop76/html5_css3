@@ -1,0 +1,29 @@
+body{
+    background: #48089c;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+header{
+    margin-top: 100px;
+    background-color: tomato;
+}
+
+h1{
+    color: moccasin;
+}
+h2{
+    color: yellow;
+}
+#clientes{
+    background-color: turquoise;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+}
+
+.img_secao{
+    width: 280px;
+    height: 180px;
+    border-radius: 25px;
+}
